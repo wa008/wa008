@@ -1,4 +1,4 @@
 - Indie hacker | Open source develper | LLM
-- pre-student
-- ex-baidu as a anti-fraud engineer
+- Currently as a pre-student
+- Ex-baidu as a anti-fraud engineer for five years
 - Email: zphu1024[at]gmail.com
