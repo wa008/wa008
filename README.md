@@ -1,3 +1,3 @@
-- Ex-baidu as a anti-fraud engineer for five years
+- Machine learning engineer
 - Email: zphu1024[at]gmail.com
-- LLM acceleration, contributed into [Liger-kernel](https://github.com/linkedin/Liger-Kernel/pull/508), [unsloth](https://github.com/unslothai/unsloth/commit/259697da81eee3b03fc472454c32890198819200)
+- LLM acceleration, LLM fine-tune 
