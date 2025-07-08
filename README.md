@@ -1,3 +1,3 @@
 - Machine learning engineer
-- Email: zphu1024[at]gmail.com
 - LLM acceleration, LLM fine-tune 
+- Email: zphu1024[at]gmail.com
